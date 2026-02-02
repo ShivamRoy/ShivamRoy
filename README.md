@@ -68,7 +68,7 @@ With 4+ years of experience in Laravel, PHP, Python (FastAPI), and MySQL, I desi
 ## ⚙️ Backend Concepts I Work With
 
 - REST API Design
-- MVC Architecture
+- MVC & Service-layer Architecture
 - Authentication & Authorization
 - Queues & Caching (Redis)
 - Database Indexing & Optimization
