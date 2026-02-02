@@ -3,77 +3,79 @@
 </p>
 
 <h1 align="center">Hi, I'm Shivam Tomar 👋</h1>
-<h3 align="center">Backend Engineer • Laravel • FastAPI • MySQL • API Systems • AI Integration</h3>
+<h3 align="center">Full Stack Web Application Developer | React • JavaScript • APIs • MySQL • Docker</h3>
 
 ---
 
 ## 🚀 About Me
 
-I build **production-grade backend systems**, **API-driven applications**, and **AI-integrated platforms**.
+I build **complete web applications** — from database design and backend APIs to interactive reporting dashboards.
 
-With 4+ years of experience in Laravel, PHP, Python (FastAPI), and MySQL, I design backend systems built for production — not tutorials.
+With 4.5+ years of production experience in PHP, MySQL, JavaScript, and FastAPI, I specialize in creating **workflow-driven systems**, **reporting modules**, and **API-powered web platforms** used in real environments.
+
+My focus is building maintainable, production-style web systems — not tutorial projects.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 What I’m Strong At
 
-- API-first backend architecture
-- Complex database design & query optimization
-- Role-based systems, validation & workflow logic
-- Reporting systems with heavy data aggregation
-- AI integration using **Ollama + FastAPI + Laravel**
-- Linux / WSL based development environment
-- Clean project structure & maintainable codebases
+- Designing relational databases & optimized queries
+- Building REST APIs for web applications
+- Creating reporting dashboards with filters & data aggregation
+- Role-based systems, validations & workflow logic
+- Connecting frontend (React/JS) with backend APIs
+- Dockerized development & deployment mindset
+- Clean architecture & maintainable codebases
 
 ---
 
 ## 🏗️ Production Systems I’ve Built
 
+### 🔹 Ticket & Query Workflow Management System
+- Ticket lifecycle: Open → Assigned → In-Progress → Resolved → Overdue
+- Role-based access for Admin / Mentor / Users
+- Status tracking, validations, and workflow rules
+- Database-heavy business logic & reporting
+
 ### 🔹 Attendance Analytics & Reporting Platform
 - Mentor-wise, week-wise, year-wise performance reports
 - Aggregated SQL metrics & optimized queries
-- API-driven reporting dashboards
+- API-driven reporting dashboards with filters
 
-### 🔹 Query & Workflow Management System
-- Overdue / In-time / Resolved tracking
-- Role-based validations and status flows
-- Database-heavy business logic
-
-### 🔹 AI-Powered Backend Architecture (Ollama + FastAPI + Laravel)
-- Dedicated Ollama LLM server
-- FastAPI inference layer
-- Laravel consuming AI APIs for real applications
+### 🔹 API Processing & Query Analyzer Tool (FastAPI)
+- Dataset processing through REST endpoints
+- Structured API responses for web app consumption
+- Designed as a utility layer for data analysis
 
 ---
 
-## 🛠 Tech Stack I Use Daily
+## 🛠 Tech Stack I Use
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Git-FF4C37?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
 
 ---
 
-## ⚙️ Backend Concepts I Work With
+## ⚙️ Concepts I Work With
 
-- REST API Design
-- MVC & Service-layer Architecture
-- Authentication & Authorization
-- Queues & Caching (Redis)
-- Database Indexing & Optimization
-- Validation & Middleware
-- JSON APIs & API Resources
-- Environment configuration & deployment mindset
+- REST API Design for web apps
+- MVC & service-layer architecture
+- Authentication & authorization flows
+- Database indexing & query optimization
+- AJAX / API integration with frontend
+- Validation, middleware & request lifecycle
+- Environment setup & deployment readiness
 
 ---
