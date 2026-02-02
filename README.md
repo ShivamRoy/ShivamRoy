@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shivam Tomar 👋</h1>
-<h3 align="center">Backend Engineer • API Systems • Laravel • FastAPI • MySQL • AI Integration</h3>
+<h3 align="center">Backend Engineer • Laravel • FastAPI • MySQL • API Systems • AI Integration</h3>
 
 ---
 
@@ -29,17 +29,17 @@ With 4+ years of experience in Laravel, PHP, Python (FastAPI), and MySQL, I desi
 
 ## 🏗️ Production Systems I’ve Built
 
-### 🔹 Attendance & Reporting Platform
+### 🔹 Attendance Analytics & Reporting Platform
 - Mentor-wise, week-wise, year-wise performance reports
 - Aggregated SQL metrics & optimized queries
 - API-driven reporting dashboards
 
-### 🔹 Query / Workflow Management System
+### 🔹 Query & Workflow Management System
 - Overdue / In-time / Resolved tracking
 - Role-based validations and status flows
 - Database-heavy business logic
 
-### 🔹 AI-powered Backend Architecture
+### 🔹 AI-Powered Backend Architecture (Ollama + FastAPI + Laravel)
 - Dedicated Ollama LLM server
 - FastAPI inference layer
 - Laravel consuming AI APIs for real applications
