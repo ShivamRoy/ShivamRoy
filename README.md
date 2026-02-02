@@ -7,20 +7,20 @@
 <h3 align="center">Backend Engineer | API Architect | Laravel • FastAPI • AI Integration</h3>
 
 ---
-## 💫 About Me
+## 🚀 About Me
 
-I build **production-grade backend systems**, **API-driven applications**, and **AI-integrated platforms**.
+I’m a **Backend Engineer** focused on building **scalable API systems**, **database-intensive applications**, and **AI-integrated platforms**.
 
-With **4+ years of experience**, I specialize in designing **scalable architectures** using **Laravel**, **Python (FastAPI)**, and **MySQL**.  
-Recently, I’ve been working on **LLM integrations via Ollama** for real-world applications.
+With **4+ years of hands-on experience** in **Laravel**, **PHP**, **Python (FastAPI)**, and **MySQL**, I design systems that are built for **production**, not tutorials.
 
-### 🔍 I Focus On
+### What I work on
 
-- **API-first architecture**
-- **Clean backend design** & **database optimization**
-- **Workflow-based systems**
-- **AI-assisted backend services**
-- **Real-world problem solving**
+- ⚙️ **API-first backend architecture**
+- 🗄️ **Complex database design & query optimization**
+- 🔐 **Role-based systems, validation & workflows**
+- 🤖 **AI integration using Ollama + FastAPI**
+- 🧩 **Reporting systems & data aggregation logic**
+- 🐧 **Linux / WSL based development environments**
 
 
 
