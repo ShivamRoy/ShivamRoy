@@ -77,8 +77,3 @@ With 4+ years of experience in Laravel, PHP, Python (FastAPI), and MySQL, I desi
 - Environment configuration & deployment mindset
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
----
-[![](https://visitcount.itsvg.in/api?id=ShivamRoy&icon=0&color=3)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
