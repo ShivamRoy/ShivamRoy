@@ -9,21 +9,21 @@
 
 ## 🚀 About Me
 
-I build **complete web applications** — from database design and backend APIs to interactive reporting dashboards.
+I build **production-grade web applications** — from database design and backend APIs to interactive **React reporting dashboards**.
 
-With 4.5+ years of production experience in PHP, MySQL, JavaScript, and FastAPI, I specialize in creating **workflow-driven systems**, **reporting modules**, and **API-powered web platforms** used in real environments.
+With 4.5+ years of real production experience in PHP, MySQL, JavaScript, and FastAPI, I specialize in creating **workflow-driven systems**, **reporting modules**, and **API-powered web platforms** used in real environments.
 
 My focus is building maintainable, production-style web systems — not tutorial projects.
 
 ---
 
-## 🧠 What I’m Strong At
+## 🧠 What I Build in Web Applications
 
-- Designing relational databases & optimized queries
-- Building REST APIs for web applications
-- Creating reporting dashboards with filters & data aggregation
+- Relational database design & optimized queries
+- REST APIs for web applications
+- React/JavaScript dashboards with filters & data aggregation
 - Role-based systems, validations & workflow logic
-- Connecting frontend (React/JS) with backend APIs
+- Frontend ↔ Backend API integration
 - Dockerized development & deployment mindset
 - Clean architecture & maintainable codebases
 
@@ -49,7 +49,7 @@ My focus is building maintainable, production-style web systems — not tutorial
 
 ---
 
-## 🛠 Tech Stack I Use
+## 🛠 Tech Stack
 
 <p align="center">
 
