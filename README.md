@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shivam Tomar 👋</h1>
-<h3 align="center">Backend Engineer • API Architect • Laravel • FastAPI • AI Integration</h3>
+<h3 align="center">Backend Engineer • API Systems • Laravel • FastAPI • MySQL • AI Integration</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 I build **production-grade backend systems**, **API-driven applications**, and **AI-integrated platforms**.
 
-With **4+ years of experience** in **Laravel**, **PHP**, **Python (FastAPI)**, and **MySQL**, I design systems that are built for **production**, not tutorials.
+With 4+ years of experience in Laravel, PHP, Python (FastAPI), and MySQL, I design backend systems built for production — not tutorials.
 
 ---
 
@@ -27,7 +27,7 @@ With **4+ years of experience** in **Laravel**, **PHP**, **Python (FastAPI)**, a
 
 ---
 
-## 🏗️ Systems I Have Built
+## 🏗️ Production Systems I’ve Built
 
 ### 🔹 Attendance & Reporting Platform
 - Mentor-wise, week-wise, year-wise performance reports
@@ -76,12 +76,6 @@ With **4+ years of experience** in **Laravel**, **PHP**, **Python (FastAPI)**, a
 - JSON APIs & API Resources
 - Environment configuration & deployment mindset
 
----
-
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=ShivamRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=ShivamRoy&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### ✍️ Random Dev Quote
