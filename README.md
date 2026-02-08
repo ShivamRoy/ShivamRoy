@@ -477,7 +477,7 @@ Open to opportunities across India | Available to start immediately | Willing to
 <br/><br/>
 
 ### 📧 BUSINESS INQUIRIES
-**Email:** your.email@example.com  
+**Email:** shivamtomar@shooliniuniversity.com  
 **Response Time:** Within 24 hours  
 **Availability:** Open to discussing opportunities immediately
 
@@ -496,8 +496,6 @@ Open to opportunities across India | Available to start immediately | Willing to
 **🚀 CURRENT STATUS:** Actively interviewing | Available to start immediately | Open to relocation
 
 <br/>
-
-![snake gif](https://github.com/shivamtomar/shivamtomar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
