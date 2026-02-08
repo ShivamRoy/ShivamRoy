@@ -499,4 +499,3 @@ Open to opportunities across India | Available to start immediately | Willing to
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer"/>
