@@ -31,7 +31,7 @@ interface Developer {
 const shivamTomar: Developer = {
   name: "Shivam Tomar",
   role: "Full Stack Web Application Developer",
-  experience: "4.5+ years in production environments",
+  experience: "5+ years in production environments",
   location: "India",
   education: "M.Tech (In Progress)",
   availability: "Actively seeking full-time opportunities",
